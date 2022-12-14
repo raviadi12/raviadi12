@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo13697
-Fork on GitHub3613
 <h1 align="center">Hi 👋, I'm Ravi Adi Prakoso</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 

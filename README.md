@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravi Adi Prakoso</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Minecraft Server](https://minecraft.fm-raviadi.id)
+- 🔭 I’m currently working on [Minecraft Server]([https://minecraft.fm-raviadi.id](https://github.com/raviadi12/OpenGL-Physics-Simulation))
 
-- 👯 I’m looking to collaborate on **Minecraft Server**
+- 👯 I’m looking to collaborate on **OpenGL Physics Simulation**
 
 - 👨‍💻 All of my projects are available at [https://fm-raviadi.id](https://fm-raviadi.id)
 
